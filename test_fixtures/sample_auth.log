@@ -1,0 +1,21 @@
+Jan 10 03:14:00 server1 sshd[1001]: Failed password for root from 198.51.100.23 port 54201 ssh2
+Jan 10 03:14:02 server1 sshd[1002]: Failed password for root from 198.51.100.23 port 54202 ssh2
+Jan 10 03:14:04 server1 sshd[1003]: Failed password for root from 198.51.100.23 port 54203 ssh2
+Jan 10 03:14:06 server1 sshd[1004]: Failed password for root from 198.51.100.23 port 54204 ssh2
+Jan 10 03:14:08 server1 sshd[1005]: Failed password for root from 198.51.100.23 port 54205 ssh2
+Jan 10 03:14:10 server1 sshd[1006]: Failed password for root from 198.51.100.23 port 54206 ssh2
+Jan 10 03:14:12 server1 sshd[1007]: Failed password for root from 198.51.100.23 port 54207 ssh2
+Jan 10 03:14:14 server1 sshd[1008]: Failed password for root from 198.51.100.23 port 54208 ssh2
+Jan 10 03:14:16 server1 sshd[1009]: Failed password for root from 198.51.100.23 port 54209 ssh2
+Jan 10 03:14:18 server1 sshd[1010]: Failed password for root from 198.51.100.23 port 54210 ssh2
+Jan 10 03:14:20 server1 sshd[1011]: Failed password for root from 198.51.100.23 port 54211 ssh2
+Jan 10 03:14:22 server1 sshd[1012]: Failed password for root from 198.51.100.23 port 54212 ssh2
+Jan 10 03:14:30 server1 sshd[1013]: Accepted password for root from 198.51.100.23 port 54213 ssh2
+Jan 10 03:20:00 server1 sshd[2001]: Invalid user test1 from 203.0.113.77 port 61201
+Jan 10 03:20:25 server1 sshd[2002]: Invalid user test2 from 203.0.113.77 port 61202
+Jan 10 03:20:50 server1 sshd[2003]: Invalid user test3 from 203.0.113.77 port 61203
+Jan 10 03:21:15 server1 sshd[2004]: Invalid user test4 from 203.0.113.77 port 61204
+Jan 10 03:21:40 server1 sshd[2005]: Invalid user test5 from 203.0.113.77 port 61205
+Jan 10 03:30:00 server1 sshd[3001]: Failed password for alice from 192.0.2.50 port 55301 ssh2
+Jan 10 03:30:05 server1 sshd[3002]: Accepted password for alice from 192.0.2.50 port 55302 ssh2
+Jan 10 03:35:00 server1 sshd[4001]: Accepted publickey for bob from 192.0.2.60 port 55401 ssh2

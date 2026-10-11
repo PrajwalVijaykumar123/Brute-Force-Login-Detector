@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated at runtime - not committed
+report.json
+blocklist.sh
